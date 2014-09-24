@@ -9,6 +9,7 @@ Antes de começar, é a primeira vez que mexo com markdown, ou seja, não sei se
 * editado e usado o método markdown - vim README.md
 * verificado status - git status
 * tirando do untracked - git add README.md
+* adicionado commit - git commit -m "Meu primeiro Projeto"
 * verificado status de novo - git status
 * adicionando o remoto github - git remote add origin https://github.com/fersoftware/projeto-01-git.git
 * por fim jogando no remoto - git push -u origin master
